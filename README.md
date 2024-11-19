@@ -14,4 +14,15 @@ Files in Repository
 
      e. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-2. 
+2. CodeBook.md: This file descrives the variables, data, and any transformations or work that was done to clean up the data.
+
+3. tidy_data.txt: This files contains the final tidy data set with the average of each variable for each activity and each subject.
+
+Running the Script
+
+1. Download the Data: Download the data from the following link:  
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+2. Run the script: Open R or RStudio and run the run_analysis.R script. This will read the data, perform the necessary transformations, and generate the tidy_data.txt file with the tidy data set.
+
+
